@@ -113,7 +113,7 @@
 
         num {
             bindings = <
-&none  &mt TILDE GRAVE  &kp ASTERISK  &kp N7  &kp N8  &kp N9  &kp KP_PLUS             &kp LEFT_PARENTHESIS         &kp RIGHT_PARENTHESIS          &mt SEMICOLON COLON  &mt QUESTION EXCLAMATION  &kp CARET  &trans  &none
+&none  &mt TILDE GRAVE  &kp ASTERISK  &kp N7  &kp N8  &kp N9  &kp KP_PLUS             &kp LEFT_PARENTHESIS         &kp RIGHT_PARENTHESIS          &mt SEMICOLON COLON  &mt QUESTION EXCLAMATION  &kp CARET  &kp DEL  &none
        &mt PIPE BSLH    &kp SLASH     &kp N4  &kp N5  &kp N6  &mt UNDERSCORE MINUS    &mt LEFT_BRACE LEFT_BRACKET  &mt RIGHT_BRACE RIGHT_BRACKET  &kp HASH             &kp DOLLAR                &trans     &trans
        &kp EQUAL        &kp NUMBER_0  &kp N1  &kp N2  &kp N3  &mt COMMA KP_DOT        &kp LESS_THAN                &kp GREATER_THAN               &kp PERCENT          &kp AT_SIGN               &trans     &trans
                                               &trans  &trans  &trans                  &trans                       &trans                         &trans
